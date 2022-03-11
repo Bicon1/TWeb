@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Grosu Victor CR192
         </a>
       </header>
     </div>
